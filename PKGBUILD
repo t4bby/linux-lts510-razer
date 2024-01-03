@@ -1,4 +1,5 @@
 # Maintainer: Tabby <root@t4bby.me>
+# Contributor: Andreas Radke <andyrtr@archlinux.org>
 
 pkgbase=linux-lts510-razer
 pkgver=5.10.205
